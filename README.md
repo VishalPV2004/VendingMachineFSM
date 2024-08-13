@@ -1,1 +1,1 @@
-# VendingMachineFSM
+# Vending Machine FSM
